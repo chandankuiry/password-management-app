@@ -10,7 +10,7 @@
   "author": "chandan kuiry",
   "license": "ISC",
   "dependencies": {
-    "crypto-js": "^3.1.5",
+    "crypto-js": "^4.2.0",
     "node-persist": "0.0.6",
     "yargs": "^3.15.0"
   }
